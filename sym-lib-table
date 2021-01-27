@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SNES-Controller-rescue)(type Legacy)(uri ${KIPRJMOD}/SNES-Controller-rescue.lib)(options "")(descr ""))
+)
